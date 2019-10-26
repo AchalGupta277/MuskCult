@@ -1,1 +1,1 @@
-Github testing file
+Git testing file
