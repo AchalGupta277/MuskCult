@@ -1,2 +1,6 @@
 Hi there, This is some sample text for this tutorial.
+<<<<<<< HEAD
 And this is a line added by Anuj. A new line added.
+=======
+This is line added by Achal.
+>>>>>>> e623fd4d20d76afbae91db36bb0f21a1fedc126a
