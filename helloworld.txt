@@ -1,2 +1,2 @@
 Hi there, This is some sample text for this tutorial.
-And this is a line added by Anuj.
+And this is a line added by Anuj. A new line added.
